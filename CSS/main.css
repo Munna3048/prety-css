@@ -1,0 +1,12 @@
+h2                        {
+    color: slateblue;
+}
+
+small{
+    display: block;
+}
+
+h3{
+    display: inline;
+   border-top: 20px dotted red;
+}
